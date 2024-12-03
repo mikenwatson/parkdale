@@ -15,7 +15,7 @@ export default function Home() {
       <div className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&q=80"
+            src="images/martin-katler-y3neNkE6efI-unsplash.jpg"
             alt="Luxury Vehicle"
             className="w-full h-full object-cover"
           />
