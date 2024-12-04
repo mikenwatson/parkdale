@@ -61,7 +61,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center text-gray-400">
                 <Phone size={16} className="mr-2" />
-                +44 (0) 207 123 4567
+                +44 (0) 7496 986 644
               </li>
               <li className="flex items-center text-gray-400">
                 <Mail size={16} className="mr-2" />
@@ -69,7 +69,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center text-gray-400">
                 <MapPin size={16} className="mr-2" />
-                123 Mayfair, London, UK
+                Saffron Walden, Essex
               </li>
             </ul>
           </div>
