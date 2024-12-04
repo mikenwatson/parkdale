@@ -32,7 +32,7 @@ export default function Navbar() {
               className="flex items-center text-gray-300 hover:text-white transition text-sm"
             >
               <Phone size={16} className="mr-1" />
-              +44 (0) 207 123 4567
+              +44 (0) 7496 986 644
             </a>
           </div>
         </div>
