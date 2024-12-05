@@ -61,7 +61,7 @@ export default function Footer() {
             <ul className="space-y-2">
               <li className="flex items-center text-gray-400">
                 <Phone size={16} className="mr-2" />
-                +44 (0) 7496 986 644
+                +44 (0)800 061 4989
               </li>
               <li className="flex items-center text-gray-400">
                 <Mail size={16} className="mr-2" />
