@@ -28,11 +28,11 @@ export default function Navbar() {
               Sign In
             </button>
             <a 
-              href="tel:+442071234567" 
+              href="tel:+44 (0)800 061 4989" 
               className="flex items-center text-gray-300 hover:text-white transition text-sm"
             >
               <Phone size={16} className="mr-1" />
-              +44 (0) 7496 986 644
+              +44 (0)800 061 4989
             </a>
           </div>
         </div>
